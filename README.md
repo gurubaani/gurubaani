@@ -1,6 +1,6 @@
 ### Hi there! :wave:
 
-I’m Gurubaani, a `Computer Engineering` student in my ✨ 4A Term at the University of Waterloo.
+I’m Gurubaani, a `Computer Engineering` student in my ✨ 4B Term at the University of Waterloo.
 
 - :gear: Ardent passion for programming, solving problems and building new tech. 
 - :dart: Seeking 2023 New Grad Opportunities in Software Development/Systems Programming or Embedded/Firmware/FPGA Software Engineering roles.
